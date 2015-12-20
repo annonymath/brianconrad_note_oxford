@@ -100,7 +100,7 @@ Grothendieckは SGA4 において，エタール・コホモロジーを導入�
 
 次の講演は遠アーベル幾何に関するものだった（p進体・代数体上の双曲線や，そして様々な数論的基本群からの幾何的対象の「復元」定理に関するもの）．多くの講演のスライドは[ワークショップのページから見ることができる](https://www.maths.nottingham.ac.uk/personal/ibf/files/iut-sch1.html)．
 
-3日目は2つの Frobenioid に関する講演から始まった．この対象は望月によって2005年頃に最終的に必要なものを超えた非常に一般的なレベルで定式化された．Frobenioid は fibered category の一種で，（ある特殊例において）retains information related to pi_1 and line bundles on all finite etale covers of a reasonable scheme, but its definition involves much less information than that of the scheme．Frobenioid はまた，include a feature that can be regarded as a substitute for missing Frobenius maps in characteristic 0．水曜日の Frobenioid に関する講演は最終的にどの特殊な Frobenioid が必要であるのかを具体例付きで示した．
+3日目は2つの Frobenioid に関する講演から始まった．この対象は望月によって2005年頃に最終的に必要なものを超えた非常に一般的なレベルで定式化された．Frobenioid はファイバー付き圏の一種で，（ある特殊例において）retains information related to pi_1 and line bundles on all finite etale covers of a reasonable scheme, しかしスキームのそれよりもかなり要求される情報が少ない．Frobenioid はまた，標数ゼロにおいて存在しない Frobenius 写像の代替物と見做すこともできる．水曜日の Frobenioid に関する講演は最終的にどの特殊な Frobenioid が必要であるのかを具体例付きで示した．
 
 3日目最後と4日目最初の講演は，「エタール・テータ関数」に関する Kedlaya の重要な講演だった（従って，これはまだ IUT 理論の前段階の論文である）．Kedlaya の講演では非常に重要なことがわかった：p進テータ関数に関するあるコホモロジー的な対象の構築についてである（付録参照）．望月の深い遠アーベル的定理に基づいて，Kedlaya はこのコホモロジー的な対象を用いれば，Szpiro 予想に関する「全ての情報」が適切な Frobenioid によって保持されるという，非常に非自明な結果を概説した．従って，残りの仕事は，この Frobenioid 理論的な帰結を用いて何か重要な結論を得ることに変わったわけである．
 
@@ -119,7 +119,7 @@ Grothendieckは SGA4 において，エタール・コホモロジーを導入�
 
 聴衆からの数々の質問は，最後の2日間立ち籠めていた霧を取り除くには至らなかった．参加者は具体例（たとえ数学的構造の例でもよいので，わかり易いもの）を求め続けたが，聴衆にとって満足のいくような例は提示されなかった．
 
-例えば私たちは（たいへんな早足で）非常に込み入った「Hedge 劇場」という数学的対象の定義を見せられたが，なぜこのような込み入った定義が必要なのかという理由を明確に説明されなかった（おそらくどこかで説明されたのだとは思うのだが，休憩時間中に質問した人々は理解できていなかった）．
+例えば私たちは（たいへんな早足で）非常に込み入った「Hodge 劇場」という数学的対象の定義を見せられたが，なぜこのような込み入った定義が必要なのかという理由を明確に説明されなかった（おそらくどこかで説明されたのだとは思うのだが，休憩時間中に質問した人々は理解できていなかった）．
 
 Frobeinoid に関する一般論は究極的には不要であることがわかった今，Hodge 劇場の構築に必要な膨大な量のデータについても同じことが成立するのではないかというのは自然な疑問と言えるだろう；どの点が重要で，ある部分を取り除いたらどこで問題が生ずるのか明確に示されたならば，色々な部分で大きく事態は好転したはずだ．
 
