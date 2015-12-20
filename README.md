@@ -1,4 +1,4 @@
-# brianconrad_note_oxford
+# Brian Conrad の Oxford での IUTT ワークショップのノート
 
 * [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/) の試訳です．
 * このような試訳を公表する理由は，英語に不慣れな高校生等で興味をもっている人に対して，現状を把握するための（願わくば）比較的正確な情報を提供することです．
