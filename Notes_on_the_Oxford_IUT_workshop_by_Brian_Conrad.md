@@ -24,7 +24,7 @@ ABC予想が重要なのは，その多くが定式化された当初には予�
 
 クレイ数学研究所とオックスフォード大学数学研究所は，重要な一歩を踏み出した．ABC予想に関連する代数幾何学の諸分野の専門家（宇宙際 Teichmüller 理論を検証してはいない）を集め，望月の研究に関するワークショップを開催したのである．目的は，専門家集団として，あまりにやる気を削がれて数学者個々人では成し遂げられなかった，大筋の理解を進めようとしたのである．主催者はこの集会の開催のために尋常でない労力を費したし，（CMIのスタッフも含め，）賞賛されるべきである．研究集会を開催するために十分な講演者を集めるのは難しかった．多くのベテランは講演したがらなかったし，また講演者の多くにとって望月の研究対象（例えば Frobenioids やエタール・テータ関数）は完全に新規なものだった．当然のことながら，講演者の多くは，自分の講演内容が最終的に全体の流れのどこに位置することになるのかしばしば理解できていなかった．狙いは，ひとりひとりの努力が組合わさることで，全体としての理解が進むのではないかということだった．
 
-私はこのワークショップに参加した．参加者のうちには Alexander Beilinson, Gerd Faltings, Kiran Kedlaya, Minhyong Kim, Laurent Lafforgue, Florian Pop, Jakob Stix, Andrew Wiles, そして Shou-Wu Zhang といった，著名な代数幾何・遠アーベル幾何の研究者たちもいた．全参加者のリストはでここ (https://www.maths.nottingham.ac.uk/personal/ibf/files/symcor.iut.html) に公開されている．
+私はこのワークショップに参加した．参加者のうちには Alexander Beilinson, Gerd Faltings, Kiran Kedlaya, Minhyong Kim, Laurent Lafforgue, Florian Pop, Jakob Stix, Andrew Wiles, そして Shou-Wu Zhang といった，著名な代数幾何・遠アーベル幾何の研究者たちもいた．全参加者のリストは[ここ] (https://www.maths.nottingham.ac.uk/personal/ibf/files/symcor.iut.html)に公開されている．
 
 証明の正しさを検証することは，このワークショップの目的ではなかった．私の（そして他の多くの参加者の）理解では，目的は代数幾何の様々な分野から集まった参加者が望月の研究全体の鍵となるアイデアに関する理解を深め，（特には）望月の論文を読もうとするにあたって多くの数学者が感じたやる気が削がれる感覚を緩和することだった．
 
