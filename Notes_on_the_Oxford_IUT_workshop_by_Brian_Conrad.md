@@ -1,4 +1,4 @@
-1.  背景
+# 1.  背景
 
 ABC予想は，およそ30年前に定式化されたばかりの予想ではあるが，数論における最も重要な予想のひとつである．複数の定式化が存在するが，そのうちには際立った有限性定理やその他の結果に繋がる定式化や，或いはこの予想の証明にあたって頑健な系統的アプローチを与えうる定式化がある．この予想は，任意の正整数ペア（AとB）とその和（C）の素因数を，これらの数たちおよびその和と結び付ける具体的な不等式に関するものである．ABC予想には，より大きな数の体系（「数体」と呼ばれ，数論において常に現れる）における自然な拡張が存在する．
 
@@ -36,7 +36,7 @@ ABC予想が重要なのは，その多くが定式化された当初には予�
 
 
 
-2. 基本的な考え方の理解を遅らせたのは何か？
+# 2. 基本的な考え方の理解を遅らせたのは何か？
 
 主たる考え方が広く理解されることの妨げになったのは，この論文の前提となっている研究が長い年月にわたる研究に基づいている点だろう．しかもこの長い年月のあいだ，どの部分が主定理の証明のみを理解するために最終的に必要となるのかわかっていなかった．これまで，主たる定理を導くための論理の流れがわかるような用語・記号の定義を用いた一貫した議論を与えるような「掃除」はなされていない．（最終的には）こうした掃除が必要だ．
 
@@ -51,7 +51,7 @@ ABC予想が重要なのは，その多くが定式化された当初には予�
 これは Grothendieck のエタール・コホモロジーを学ぶときのことを思い起こさせる．近年ではこの理論を一から直接的かつ（多かれ少なかれ）効率的なやりかたで構築し，重要な定理を証明していくようなよい本がいくつかある．Grothendieck の数分冊に渡る SGA4 における最初の定式化においては，非常に抽象的なトポスの一般理論を構築するために何百ページも割かれている．これは後の様々な一般化のための基礎となることを目指して書かれていた（そして後に実際に一般化された）．このような非常な一般性はしかし，エタール・コホモロジーのみを理解しようとするためには（任意の圏を理解するためにさえも）完全に不必要である．
 
 
-3. 宇宙際 Teichmüler 理論 (IUT) とは何か？
+# 3. 宇宙際 Teichmüler 理論 (IUT) とは何か？
 
 I will build up to my impression of an approximate definition of IUT in stages. As motivation, the method of Mochizuki to settle Szpiro’s Conjecture (and hence ABC) is to encode the key arithmetic invariants of elliptic curves in that conjecture in terms of “symmetry” alone, without direct reference to elliptic curves. One aims to do the encoding in terms of group-theoretic data given by (arithmetic) fundamental groups of specific associated geometric objects that were the focus of Grothendieck’s anabelian conjectures on which Mochizuki had proved remarkable results earlier (going far beyond anything Grothendieck had dared to conjecture). The encoding mechanism is addressed in the appendix; it involves a lot of serious arguments in algebraic and non-archimedean geometry of an entirely conventional nature (using p-adic theta functions, line bundles, Kummer maps, and a Heisenberg-type subquotient of a fundamental group).
 
@@ -77,7 +77,7 @@ Grothendieck introduced universes in order to set up a rigorous theory of genera
 
 In other words, what is needed to create a rigorous “theory of everything” need not have anything to do with what is needed for the more limited aim of developing a “theory of something”. Mochizuki does speak of “change of universe” in a serious way in his 4th and final IUT paper (this being a primary reason for the word “inter-universal” in “IUT”, I believe). But that consideration of universes is due to seeking a very general framework for certain tasks, and does not appear to be necessary if one aims for an approach that is sufficient just to prove Szpiro’s Conjecture. For the purposes of setting up a general framework for IUT strong enough to support all manner of possible future developments without “reinventing the wheel”, the “inter-universal” considerations may be necessary, and someone at the Oxford workshop suggested model theory could provide a well-developed framework for such matters, but for applications in number theory (and in particular the ABC Conjecture) it appears to be irrelevant.
 
-4. ワークショップで何があったか？
+# 4. ワークショップで何があったか？
 
 The schedule of talks of the workshop aimed to give an overview of the entire theory. The aim of all participants with whom I spoke was to try to identify where substantial contact occurs between the theory of heights for elliptic curves (an essential feature of Szpiro’s Conjecture) and Mochizuki’s past work in anabelian geometry, especially how such contact could occur in a way which one could see did provide insight in the direction of a result such as Szpiro’s conjecture (rather than just  yield non-trivial new results on heights disconnected from anything). So one could consider the workshop to be a success if it gave participants a clearer sense among:
 
@@ -99,7 +99,7 @@ The workshop began with a lecture by Shou-Wu Zhang on a result of Bogomolov with
 しかし Kedlaya の講演以降の，IUT 論文本体に関する講演は，既に IUT を理解した参加者以外には理解できなかった：新しい記号，言い回しや用語が次々と導入され，IUT を既にある程度理解した人以外は完全に迷子になってしまった．この結末は，IUT 論文の正しさという数学的な問題には関係ない．しかし，数多くの数学者がこの論文を理解しようとしてできなかった原因を端的に示している．上記のワークショップの Web サイトに掲載された講演資料を見れば，たいていの数学者は参加者だったらどのように感じるか理解できるだろう．
 
 
-5. 聴衆のフラストレーション
+# 5. 聴衆のフラストレーション
 
 最後の2日間は，聴衆にとってかなりフラストレーションがたまるものだった．具体例を示そう．
 
@@ -118,7 +118,7 @@ Frobeinoid に関する一般論は究極的には不要であることがわか
 聴衆が何度となく基礎的な質問をしたために講演が後ろ倒しになり，講演のなかにはスケジュール通りに進めるために早足になったものもあった．この結果としてより混乱が生ずるという悪循環が生じたとはいうものの，基礎的な質問が数多く出たのは最初の「情報量が多すぎる」問題によるものだ．講演は目の前の聴衆のためのものなのである．
 
 
-6. おわりに
+# 6. おわりに
 
 週の終わりにかけて生じた上記のような色々な難点や聴衆一般のフラストレーションにも係らず，このワークショップはいくつかの理由から実り多いのだった．このワークショップを通じて，鍵となる概念や定義の理解が進んだ．加えて，IUTの前段となる研究の発想に関する様々な興味深い議論の機会をもたらしたのみならず，IUTにアプローチするより効率的な道筋を明確にした（例えば，先行する論文の不要な部分をどのように避けていくか）．このワークショップはまた証明が effective ではないことの再確認ともなったし，肝となるコホモロジー的対象，また Frobenioid に関する重要な定義も明確にした．
 
