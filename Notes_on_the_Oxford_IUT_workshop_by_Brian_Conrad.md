@@ -98,7 +98,7 @@ Grothendieckは SGA4 において，エタール・コホモロジーを導入�
 
 ワークショップは，Show-Wu Zhang の Bogomolov による群論的証明に関する講演から始まった（Zhang によるものだったと思うのだが）．この講演は論理的には IUT と関係しない（望月は IUT 論文を書いてしばらくするまでこの証明については知らなかった）が，後々の講演の様々な点において洞察をもたらした．その後，望月の 一般の楕円曲線に対する refined Belyi 写像に関する講演があり，ここでは任意の代数体上のABC予想と任意の双曲線に対する Vojta 予想を，局所的な性質について制限付きの（例えば semistable reduction over a number field that contains sqrt{-1}, j-invariant with controlled archimedean and 2-adic valuations など）任意の楕円曲線に対する Szpiro 予想に帰着した．ここで背理法による証明が用いられており，これが望月の手法によって導かれる定数が effective でない理由となっている（このことによって彼のABC予想の証明は，正しいとすれば，有限性定理には適用可能であるが effective さについては何も言えなくなっている）．
 
-次の講演は遠アーベル幾何に関するものだった（p進体・代数体上の双曲線や，そして様々な数論的基本群からの幾何的対象の「復元」定理に関するもの）．多くの講演のスライドはワークショップのページから見ることができる．
+次の講演は遠アーベル幾何に関するものだった（p進体・代数体上の双曲線や，そして様々な数論的基本群からの幾何的対象の「復元」定理に関するもの）．多くの講演のスライドは[ワークショップのページから見ることができる](https://www.maths.nottingham.ac.uk/personal/ibf/files/iut-sch1.html)．
 
 3日目は2つの Frobenioid に関する講演から始まった．この対象は望月によって2005年頃に最終的に必要なものを超えた非常に一般的なレベルで定式化された．Frobenioid は fibered category の一種で，（ある特殊例において）retains information related to pi_1 and line bundles on all finite etale covers of a reasonable scheme, but its definition involves much less information than that of the scheme．Frobenioid はまた，include a feature that can be regarded as a substitute for missing Frobenius maps in characteristic 0．水曜日の Frobenioid に関する講演は最終的にどの特殊な Frobenioid が必要であるのかを具体例付きで示した．
 
