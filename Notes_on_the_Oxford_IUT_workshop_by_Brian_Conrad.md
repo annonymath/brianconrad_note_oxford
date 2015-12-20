@@ -1,9 +1,9 @@
-  1. [背景]()
-  2. [基本的な考え方の理解を遅らせたのは何か？]()
-  3. [宇宙際 Teichmüler 理論 (IUT) とは何か？]()
-  4. [ワークショップで何があったか？]()
-  5. [聴衆のフラストレーション]()
-  6. [終わりに]()
+  1. [背景](https://github.com/annonymath/brianconrad_note_oxford/blob/master/Notes_on_the_Oxford_IUT_workshop_by_Brian_Conrad.md#1)
+  2. [基本的な考え方の理解を遅らせたのは何か？](https://github.com/annonymath/brianconrad_note_oxford/blob/master/Notes_on_the_Oxford_IUT_workshop_by_Brian_Conrad.md#2)
+  3. [宇宙際 Teichmüler 理論 (IUT) とは何か？](https://github.com/annonymath/brianconrad_note_oxford/blob/master/Notes_on_the_Oxford_IUT_workshop_by_Brian_Conrad.md#3)
+  4. [ワークショップで何があったか？](https://github.com/annonymath/brianconrad_note_oxford/blob/master/Notes_on_the_Oxford_IUT_workshop_by_Brian_Conrad.md#4)
+  5. [聴衆のフラストレーション](https://github.com/annonymath/brianconrad_note_oxford/blob/master/Notes_on_the_Oxford_IUT_workshop_by_Brian_Conrad.md#5)
+  6. [終わりに](https://github.com/annonymath/brianconrad_note_oxford/blob/master/Notes_on_the_Oxford_IUT_workshop_by_Brian_Conrad.md#6)
 
 
 
