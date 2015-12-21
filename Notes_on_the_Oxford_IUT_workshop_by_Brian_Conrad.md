@@ -3,7 +3,6 @@ _**This document is an unofficial Japanese translation for [Notes on the Oxford 
 --
 
 [訳者による註](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
-
 --
 
 # Brian Conrad によるオックスフォードでの IUT ワークショップのノート
