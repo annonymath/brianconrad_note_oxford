@@ -1,4 +1,4 @@
-_**This is an unauthorized copy of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). I will immediately remove this document upon request of the copyright holder.**_
+_**This is an unauthorized copy of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). I do not have the copyright and will readily remove this document upon request of the copyright holder.**_
 
 -- 
 
