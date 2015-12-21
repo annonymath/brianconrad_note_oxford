@@ -1,15 +1,19 @@
-Brian Conrad is a math professor at Stanford and was one of the participants at the Oxford workshop on Mochizuki’s work on the ABC Conjecture. He is an expert in arithmetic geometry, a subfield of number theory which provides geometric formulations of the ABC Conjecture (the viewpoint studied in Mochizuki’s work).
+_**This is an unauthorized copy of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). I will immediately remove this document upon request of the copyright holder.**_
+
+_Brian Conrad is a math professor at Stanford and was one of the participants at the Oxford workshop on Mochizuki’s work on the ABC Conjecture. He is an expert in arithmetic geometry, a subfield of number theory which provides geometric formulations of the ABC Conjecture (the viewpoint studied in Mochizuki’s work)._
 
 Since he was asked by a variety of people for his thoughts about the workshop, Brian wrote the following summary. He hopes that a non-specialist may also learn something from these notes concerning the present situation. Forthcoming articles in Nature and Quanta on the workshop will be addressed at the general public. This writeup has the following structure:
 
-Background
-What has delayed wider understanding of the ideas?
-What is Inter-universal Teichmuller Theory (IUTT = IUT)?
-What happened at the conference?
-Audience frustration
-Concluding thoughts
-Technical appendix
-1.  Background
+  1. Background
+  2. What has delayed wider understanding of the ideas?
+  3. What is Inter-universal Teichmuller Theory (IUTT = IUT)?
+  4. What happened at the conference?
+  5. Audience frustration
+  6. Concluding thoughts
+  7. Technical appendix
+
+
+# 1.  Background
 
 The ABC Conjecture is one of the outstanding conjectures in number theory, even though it was formulated only approximately 30 years ago. It admits several equivalent formulations, some of which lead to striking finiteness theorems and other results in number theory and others of which provide a robust structural framework to try to prove it. The conjecture concerns a concrete inequality relating prime factors of a pair of positive whole numbers (A and B) and their sum (C) to the actual magnitudes of the two integers and their sum. It has a natural generalization to larger number systems (called “number fields”) that arise throughout number theory.
 
@@ -45,7 +49,7 @@ The workshop did not provide the “aha!” moment that many were hoping would t
 
 References below to opinions and expectations of “the audience” are based on conversations with many participants who have expertise in arithmetic geometry (but generally not with Inter-universal Teichmuller Theory). As far as I know, we were all on the same wavelength for expectations and impressions about how things evolved during the week. Ultimately any inaccuracy in what is written below is entirely my responsibility. I welcome corrections or clarification, to be made through comments on this website for the sake of efficiency.
 
-2. What has delayed wider understanding of the ideas?
+# 2. What has delayed wider understanding of the ideas?
 
 One source of difficulties in wider dissemination of the main ideas appears to be the fact that prior work on which it depends was written over a period of many years, during much of which it was not known which parts would finally be needed just to understand the proof of the main result. There has not been a significant “clean-up” to give a more streamlined pathway into the work with streamlined terminology/notation. This needs to (eventually) happen.
 
@@ -55,11 +59,12 @@ Moreover, his methods require the elliptic curve in question to satisfy certain 
 
 Sometimes the extensive back-referencing to earlier papers also on generally unfamiliar topics (such as Frobenioids and anabelioids) has created a sense of infinite regress, due to the large number of totally novel concepts to be absorbed, and this has had a discouraging effect since the writing is often presented from the general to the specific (which may be fine for logic but not always for learning entirely new concepts). For example, if one tries to understand Mochizuki’s crucial notion of Frobenioid (the word is a hybrid of “Frobenius” and “monoid”), it turns out that much of the motivation comes from his earlier work in Hodge-Arakelov theory of elliptic curves, and that leads to two conundrums of psychological (rather than mathematical) nature:
 
-Hodge-Arakelov theory is not used in the end (it was the basis for Mochizuki’s original aim to create an arithmetic version of Kodaira-Spencer theory, inspired by the function field case, but that approach did not work out). How much (if any) time should one invest to learn a non-trivial theory for motivational purposes when it will ultimately play no direct role in the final arguments?
-Most of the general theory of Frobenioids (in two prior papers of Mochizuki) isn’t used in the end either (he only needs some special cases), but someone trying on their own to learn the material may not realize this and so may get very discouraged by the (mistaken) impression that they have to digest that general theory. There is a short note on Mochizuki’s webpage which points out how little of that theory is ultimately needed, but someone working on their own may not be aware of that note. Even if one does find that note and looks at just the specific parts of those earlier papers which discuss the limited context that is required, one see in there ample use of notation, terminology, and results from earlier parts of the work. That may create a sense of dread (even if misplaced) that to understand enough about the special cases one has to dive back into the earlier heavier generalities after all, and that can feel discouraging.
+  * Hodge-Arakelov theory is not used in the end (it was the basis for Mochizuki’s original aim to create an arithmetic version of Kodaira-Spencer theory, inspired by the function field case, but that approach did not work out). How much (if any) time should one invest to learn a non-trivial theory for motivational purposes when it will ultimately play no direct role in the final arguments?
+  * Most of the general theory of Frobenioids (in two prior papers of Mochizuki) isn’t used in the end either (he only needs some special cases), but someone trying on their own to learn the material may not realize this and so may get very discouraged by the (mistaken) impression that they have to digest that general theory. There is a short note on Mochizuki’s webpage which points out how little of that theory is ultimately needed, but someone working on their own may not be aware of that note. Even if one does find that note and looks at just the specific parts of those earlier papers which discuss the limited context that is required, one see in there ample use of notation, terminology, and results from earlier parts of the work. That may create a sense of dread (even if misplaced) that to understand enough about the special cases one has to dive back into the earlier heavier generalities after all, and that can feel discouraging.
+
 An analogy that comes to mind is learning Grothendieck’s theory of etale cohomology. Nowadays there are several good books on the topic which develop it from scratch (more-or-less) in an efficient and direct manner, proving many of the key theorems. The original exposition by Grothendieck in his multi-volume SGA4 books involved first developing hundreds of pages of the very abstract general theory of topoi that was intended to be a foundation for all manner of future possible generalizations (as did occur later), but that heavy generality is entirely unnecessary if one has just the aim to learn etale cohomology (even for arbitrary schemes).
 
-3. What is Inter-universal Teichmuller Theory (IUT)?
+# 3. What is Inter-universal Teichmuller Theory (IUT)?
 
 I will build up to my impression of an approximate definition of IUT in stages. As motivation, the method of Mochizuki to settle Szpiro’s Conjecture (and hence ABC) is to encode the key arithmetic invariants of elliptic curves in that conjecture in terms of “symmetry” alone, without direct reference to elliptic curves. One aims to do the encoding in terms of group-theoretic data given by (arithmetic) fundamental groups of specific associated geometric objects that were the focus of Grothendieck’s anabelian conjectures on which Mochizuki had proved remarkable results earlier (going far beyond anything Grothendieck had dared to conjecture). The encoding mechanism is addressed in the appendix; it involves a lot of serious arguments in algebraic and non-archimedean geometry of an entirely conventional nature (using p-adic theta functions, line bundles, Kummer maps, and a Heisenberg-type subquotient of a fundamental group).
 
@@ -85,13 +90,14 @@ Grothendieck introduced universes in order to set up a rigorous theory of genera
 
 In other words, what is needed to create a rigorous “theory of everything” need not have anything to do with what is needed for the more limited aim of developing a “theory of something”. Mochizuki does speak of “change of universe” in a serious way in his 4th and final IUT paper (this being a primary reason for the word “inter-universal” in “IUT”, I believe). But that consideration of universes is due to seeking a very general framework for certain tasks, and does not appear to be necessary if one aims for an approach that is sufficient just to prove Szpiro’s Conjecture. For the purposes of setting up a general framework for IUT strong enough to support all manner of possible future developments without “reinventing the wheel”, the “inter-universal” considerations may be necessary, and someone at the Oxford workshop suggested model theory could provide a well-developed framework for such matters, but for applications in number theory (and in particular the ABC Conjecture) it appears to be irrelevant.
 
-4. What happened at the workshop?
+# 4. What happened at the workshop?
 
 The schedule of talks of the workshop aimed to give an overview of the entire theory. The aim of all participants with whom I spoke was to try to identify where substantial contact occurs between the theory of heights for elliptic curves (an essential feature of Szpiro’s Conjecture) and Mochizuki’s past work in anabelian geometry, especially how such contact could occur in a way which one could see did provide insight in the direction of a result such as Szpiro’s conjecture (rather than just  yield non-trivial new results on heights disconnected from anything). So one could consider the workshop to be a success if it gave participants a clearer sense among:
 
-the “lay of the land” in terms of how some ingredients fit together,
-which parts of the prior work are truly relevant, and in what degree of generality, and
-how the new notions introduced allow one to do things that cannot be readily expressed in more concrete terms.
+  1. the “lay of the land” in terms of how some ingredients fit together,
+  2. which parts of the prior work are truly relevant, and in what degree of generality, and
+  3. how the new notions introduced allow one to do things that cannot be readily expressed in more concrete terms.
+
 The workshop helped with (i) and (ii), and to a partial extent with (iii).
 
 It was reasonable that participants with advanced expertise in arithmetic geometry should get something out of the meeting even without reading any IUT-related material in advance, as none of us were expecting to emerge as experts (just seeking basic enlightenment). Many speakers in the first 3 days, which focused on material prior to the IUT papers but which feed into the IUT papers, were not IUT experts. Hence, they could not be expected to identify how their topic would precisely fit into IUT. It took a certain degree of courage to be a speaker in such a situation.
@@ -106,7 +112,7 @@ At the end of the third day and beginning of the fourth day were two crucial lec
 
 After Kedlaya’s lectures, the remaining ones devoted to the IUT papers were impossible to follow without already knowing the material: there was a heavy amount of rapid-fire new notation and language and terminology, and everyone not already somewhat experienced with IUT got totally lost. This outcome at the end is not relevant to the mathematical question of correctness of the IUT papers. However, it is a manifestation of the same expository issues that have discouraged so many from digging into the material. The slides from the conference website link above will give many mathematicians a feeling for what it was like to be in the audience.
 
-5. Audience frustration.
+# 5. Audience frustration.
 
 There was substantial audience frustration in the final 2 days. Here is an example.
 
@@ -140,7 +146,7 @@ It is the efficient communication of great ideas in written and oral form that i
 
 For every subject I have ever understood in mathematics, there are instructive basic examples and concise arguments to illustrate what is the point to generally educated mathematicians. There is no reason that IUT should be any different, especially for the audience that was present at Oxford. Let me illustrate this with a short story. During one of the tea breaks I was chatting with a postdoc who works in analysis, and I mentioned sheaf theory as an example of a notion which may initially look like pointless abstract nonsense but actually allows for very efficient consideration of useful ideas which are rather cumbersome (or impossible) to contemplate in more concrete terms. Since that postdoc knew nothing about what can be done with sheaf theory, I told him about the use of sheaf cohomology to systematize and analyze the deRham theorem and topological obstructions to construction problems in complex analysis; within 20 minutes he understood the point and wanted to learn more. Nobody expects to grasp the main points of IUT within 20 minutes, but if someone says they understand a theory and does not provide instructive visibly relevant examples and concise arguments that clearly illustrate what is the point then they are not trying hard enough. Many are willing to work hard to understand what must be very deep and powerful ideas, but they need a clearer sense of the landscape before beginning their journey.
 
-7. Technical appendix
+# 7. Technical appendix
 
 The following summary of some notions from Kedlaya’s lectures is included to convey to experts in arithmetic geometry that there are substantial and entirely conventional scheme-theoretic ideas underlying crucial constructions that provide the backbone for IUT. The Szpiro conjecture requires controlling height(Delta(E)) in a global setting. Let’s now focus on the local story, for an elliptic curve E with split multiplicative reduction over a p-adic field K.  We aim to encode ord(Delta(E)) – up to controlled error – in terms of cohomological constructions related to etale fundamental groups. The punctured curve E – {0} is hyperbolic, but to work with it analytically over K without losing contact with the algebraic side it is better (for GAGA purposes) to instead consider the complete curve E with a suitable log-structure supported at {0}, that being a “hyperbolic log curve” X.
 
