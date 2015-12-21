@@ -1,8 +1,7 @@
 [README](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
 
 
-# Oxford 大で開催された望月の研究に関するワークショップの覚え書き
-
+# 望月のABC予想に関する Oxford での研究集会の覚え書き
 --
 _Brian Conrad は Stanford 大学の数学科の教授であり，Oxford で開催された望月のABC予想に関する研究集会に参加した．彼は，ABC予想の幾何的定式化（これが望月によって研究された問題である）を与える数論の一分野，数論幾何学の専門家である．_
 
