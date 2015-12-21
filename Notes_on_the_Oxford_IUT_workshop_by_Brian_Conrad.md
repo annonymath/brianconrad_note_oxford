@@ -10,7 +10,7 @@ _**This document is an unofficial Japanese translation of [Notes on the Oxford I
 
 _Brian Conrad は Stanford 大学の数学科の教授であり，オックスフォードで開催された望月のABC予想に関する研究集会に参加した．彼は，ABC予想の幾何的定式化（これが望月によって研究された問題である）を与える数論の一分野，数論幾何学の専門家である．_
 
-_何度も色々な人からワークショップの感想を尋ねられたことから，Brian は以下のまとめを書いた．彼は，非専門家でも現在の状況から何かの学びを得られるのではないかと期待している．Nature や Quanta で今後登場する記事は，より一般向けのものとなる見込みだ．この文書は次のように構成されている：_
+_何度も色々な人からワークショップの感想を尋ねられたことから，Brian は以下のまとめを書いた．彼は，非専門家でも現在の状況から何かの学びを得られるのではないかと期待している．Nature や Quanta で今後登場する記事は，より一般向けのものとなる見込みだ［→[Nature](http://www.nature.com/news/biggest-mystery-in-mathematics-in-limbo-after-cryptic-meeting-1.19035?WT.mc_id=FBK_NatureNews), [Quanta](https://www.quantamagazine.org/20151221-hope-rekindled-for-abc-proof/)］．この文書は次のように構成されている：_
 
   1. 背景
   2. 基本的な考え方の理解を遅らせたのは何か？
