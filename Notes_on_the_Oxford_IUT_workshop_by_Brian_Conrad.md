@@ -1,4 +1,4 @@
-[訳者によるREADME](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
+[訳者による註](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
 
 
 # Brian Conrad による Oxford での IUT ワークショップのノート
