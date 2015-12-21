@@ -1,4 +1,4 @@
-_**This is an unauthorized copy of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). I will immediately remove this document upon request of the copyright holder.**_
+_**This is an unauthorized copy of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). I (@annonymath) will immediately remove this document upon request of the copyright holder.**_
 
 _Brian Conrad is a math professor at Stanford and was one of the participants at the Oxford workshop on Mochizuki’s work on the ABC Conjecture. He is an expert in arithmetic geometry, a subfield of number theory which provides geometric formulations of the ABC Conjecture (the viewpoint studied in Mochizuki’s work)._
 
