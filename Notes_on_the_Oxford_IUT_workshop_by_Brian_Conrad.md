@@ -1,4 +1,4 @@
-_**This document is an unofficial Japanese translation of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). I will immediately remove the file upon request of the copyright holder of original English version of the article.**_
+_**This document is an unofficial Japanese translation of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). I do not have the right to translate the article and am ready to remove the file upon request of the copyright holder.**_
 
 --
 
