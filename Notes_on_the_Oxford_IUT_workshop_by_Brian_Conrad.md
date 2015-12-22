@@ -2,11 +2,11 @@ _This document is an unofficial Japanese translation of [Notes on the Oxford IUT
 
 --
 
-[README](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
+[この試訳に関するおことわり](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
 
 --
 
-# Brian Conrad によるオックスフォードでの IUT ワークショップのノート
+# Brian Conrad によるオックスフォードでの IUT ワークショップのノート（試訳）
 
 _Brian Conrad は Stanford 大学の数学科の教授であり，オックスフォードで開催された望月のABC予想の研究に関するワークショップに参加した．彼は，ABC予想の幾何学的定式化（これが望月によって研究された問題である）を与える数論の一分野，数論幾何学の専門家である．_
 
