@@ -1,8 +1,8 @@
-_**This document is an unofficial Japanese translation of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). The author of this document does not have the right to translate the article and is ready to remove the file upon request of the copyright holder.**_
+_This document is an unofficial Japanese translation of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). The author of this document does not have the right to translate the article and is ready to remove the file upon request of the copyright holder._
 
 --
 
-[訳者による註](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
+[訳者による ReadMe](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
 
 --
 
