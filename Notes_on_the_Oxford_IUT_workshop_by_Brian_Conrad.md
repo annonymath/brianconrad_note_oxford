@@ -2,7 +2,7 @@ _This document is an unofficial Japanese translation of [Notes on the Oxford IUT
 
 --
 
-[訳者による ReadMe](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
+[README](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
 
 --
 
