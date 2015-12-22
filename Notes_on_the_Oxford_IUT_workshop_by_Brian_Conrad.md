@@ -1,7 +1,5 @@
 _This document is an unofficial Japanese translation of [Notes on the Oxford IUT workshop by Brian Conrad](http://mathbabe.org/2015/12/15/notes-on-the-oxford-iut-workshop-by-brian-conrad/). The author of this document does not have the right to translate the article and is ready to remove the file upon request of the copyright holder._
 
---
-
 [この試訳に関するおことわりなど](https://github.com/annonymath/brianconrad_note_oxford/blob/master/README.md)
 
 --
